@@ -1,7 +1,3 @@
-# superstore-sales-analysis
-
-This Power BI project provides detailed analysis and visualization of sales performance using the Superstore dataset.
-
 # 📌 Project Title: Superstore Sales Analysis 
 
 📝 This Power BI project provides a comprehensive analysis of the Superstore sales dataset. It aims to uncover key business insights by visualizing sales, profit, quantity sold, and customer data across different regions, categories, and time periods. The dashboard is designed to help businesses make data-driven decisions by identifying high-performing areas and opportunities for improvement.
